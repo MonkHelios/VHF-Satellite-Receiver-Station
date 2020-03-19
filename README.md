@@ -1,2 +1,3 @@
-# VHF-Satellite-Receiver-Station
-RTL-SDR dongle connected to a 137MHz V-dipole capable of receiving NOAA automatic picture transmissions and ISS broadcasts.
+# NOAA Automatic Picture Transmission RX
+`Older satellites like NOAA continuously sends an automatic picture transmission at 137MHz,h which gives the image of the earth's surface directly below it`
+`This was used to predict weather patterns and to know instantaneous weather`
